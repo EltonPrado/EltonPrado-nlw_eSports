@@ -6,7 +6,7 @@
 
 Projeto desenvolvido no evento Nest Level Week da Rocketseat.
 
-[ Clique aqui para acessar](https://github.com/EltonPrado/nlw_eSports)
+[ Clique aqui para acessar](https://eltonprado.github.io/nlw_eSports/)
 
 ## Tecnologias utilizadas
 
