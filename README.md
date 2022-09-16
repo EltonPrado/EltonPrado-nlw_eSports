@@ -2,7 +2,7 @@
 
 > Trilha Explorer
 
-![preview](./.github/preview_save.png)
+![preview](./github/preview_save.png)
 
 Projeto desenvolvido no evento Nest Level Week da Rocketseat.
 
